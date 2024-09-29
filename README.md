@@ -5,7 +5,7 @@ My name is Ali, I'm a software developer with a great interest in technology. I 
 ## 🚀 My Interests
 - Desktop .NET Development
 - Web Development
-- Cybersecurity
+- Operating Systems
 
 ## 🛠 What I Use
 - **Languages**:\

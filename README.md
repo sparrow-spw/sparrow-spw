@@ -9,7 +9,7 @@ My name is Ali, I'm a software developer with a great interest in technology. I 
 
 ## 🛠 What I Use
 - **Languages**:\
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,py,lua)](https://skillicons.dev)
 - **Tools**:\
 [![My Skills](https://skillicons.dev/icons?i=discord,twitter,visualstudio,vscode,aws,windows,dotnet,pr,robloxstudio,godot)](https://skillicons.dev)
 

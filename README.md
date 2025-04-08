@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Ali, I'm a software developer with a great interest in technology. I like proprietary software.
+My name is Ali, I'm a software developer with a great interest in technology.
 
 ## 🚀 My Interests
 - Desktop .NET Development

@@ -1,11 +1,11 @@
-# Hello! 👋
+# Hello!
 
-My name is Ali, I'm a software developer with a great interest in technology.
+My name is Ali, I'm a developer with a great interest in technology and software.
 
-**[Sparrow99.com.tr](https://sparrow99.com.tr)**
+**[sparrow99.me](https://sparrow99.me)**
 
 ## 🚀 My Interests
-- Desktop .NET Development
+- Backend Development
 - Web Development
 - Operating Systems
 
